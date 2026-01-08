@@ -1,9 +1,5 @@
 # File Integrity Monitor (Python)
 
-## Author
-
-**PedroZoro**  
-
 A lightweight, real-time **File Integrity Monitoring (FIM)** tool written in Python.  
 It watches a directory, hashes files, detects tampering, deletions, renames, and new files — and logs everything like a paranoid butler (the good kind).
 
@@ -129,3 +125,6 @@ Stop the monitor using **Ctrl+C**.
 
 MIT License.  
 Use it, break it, improve it — just don’t pretend you wrote it.
+
+## Author
+**PedroZoro**  
